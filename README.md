@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [Lab](https://lab.zeon.dev)
-- 🌱 I’m currently learning: C and C++
+- 🔭 I’m currently working on: [Saturn](https://github.com/zeondev/saturn-core)
+- 🌱 I’m currently learning: More Web Dev skills
 - 📫 You can DM me on discord "Lap#1234"
 - 😄 Pronouns: He/Him
 <hr>
