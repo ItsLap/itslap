@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [Saturn](https://github.com/zeondev/saturn-core)
+- 🔭 I’m currently working on: [Pluto](https://pluto.nxw.pw)
 - 🌱 I’m currently learning: More Web Dev skills
-- 📫 You can DM me on discord "Lap#1234"
+- 📫 You can DM me on discord "itslap"
 - 😄 Pronouns: He/Him
 <hr>
 
